@@ -1,0 +1,25 @@
+=====================================================================
+                SCIM Array 30 Input Method Engine
+=====================================================================
+This input method engine  is developed to support the Array 30 input 
+method in SCIM framework. SCIM Array 30 Input Method Engine provides
+with all the functions of Array 30, including 1st and 2nd level 
+short codes, special codes, and symbol input.
+
+
+=====================================================================
+                    SCIM 行列 30 輸入法引擎    (Trad. Chinese)
+=====================================================================
+本輸入法引擎之開發目的為開發出於 SCIM 框架中完整支援行列 30 輸入法的
+完整輸入功能，包括一級簡碼、二級簡碼、特別碼，以及符號輸入等功能。
+
+
+=====================================================================
+                    PATCH for this package
+=====================================================================
+SCIM 行列 30 輸入法引擎提供了 SCIM 上好用的行列三十輸入法，但是我升級上 
+openSUSE 12.3 以後編譯失敗，這裡是放我自己修改以後的 source code。
+
+1. 使用 GTK_CHECK_VERSION 區隔開不同版本間的 API
+2. 更新 array30.cin 與 array-shortcode.cin 檔案
+

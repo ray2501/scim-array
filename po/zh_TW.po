@@ -1,0 +1,118 @@
+# scim-array 
+# Copyright (C) 2007 Yu-Chun Wang <albyu35@ms57.hinet.net>
+# This file is distributed under the same license as the scim-array package.
+# Yu-Chun Wang <albyu3t@ms57.hinet.net>, 2007
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: zh-tw\n"
+"Report-Msgid-Bugs-To: albyu35@ms57.hinet.net\n"
+"POT-Creation-Date: 2008-11-09 00:05+0800\n"
+"PO-Revision-Date: 2007-08-07 00:23+0800\n"
+"Last-Translator: Yu-Chun Wang <albyu35@ms57.hinet.net>\n"
+"Language-Team: scim-array\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/scim_array_imengine.cpp:187
+msgid "The status of the current input method. Click to change it."
+msgstr "目前輸入法狀態，點選可切換英中輸入狀態"
+
+#: src/scim_array_imengine.cpp:188
+msgid "The input mode of the letters. Click to toggle between half and full."
+msgstr "全半形狀態，點選可切換全半形輸入狀態"
+
+#: src/scim_array_imengine.cpp:251 src/scim_array_imengine_setup.cpp:106
+msgid "Array"
+msgstr "行列"
+
+#: src/scim_array_imengine.cpp:278
+msgid "SCIM Array 30 Input Method Engine "
+msgstr "SCIM行列30輸入法模組"
+
+#: src/scim_array_imengine.cpp:279
+msgid "Ver."
+msgstr "版本："
+
+#: src/scim_array_imengine.cpp:282
+msgid "Official web site: "
+msgstr "專案網站："
+
+#: src/scim_array_imengine.cpp:285
+msgid "Hot Keys"
+msgstr "快速鍵"
+
+#: src/scim_array_imengine.cpp:287 src/scim_array_imengine_setup.cpp:193
+msgid "En/Ch Mode Switch Key"
+msgstr "中英輸入模式切換鍵"
+
+#: src/scim_array_imengine.cpp:291 src/scim_array_imengine_setup.cpp:217
+msgid "Half/Full Width Mode Switch Key"
+msgstr "全半形輸入模式切換鍵"
+
+#: src/scim_array_imengine.cpp:295 src/scim_array_imengine_setup.cpp:260
+msgid "Options"
+msgstr "選項"
+
+#: src/scim_array_imengine.cpp:297 src/scim_array_imengine_setup.cpp:166
+msgid "Show Special Code"
+msgstr "顯示特別碼提示"
+
+#: src/scim_array_imengine.cpp:300 src/scim_array_imengine.cpp:307
+#: src/scim_array_imengine.cpp:314
+msgid "Enable"
+msgstr "開啟"
+
+#: src/scim_array_imengine.cpp:302 src/scim_array_imengine.cpp:309
+#: src/scim_array_imengine.cpp:316
+msgid "Disable"
+msgstr "關閉"
+
+#: src/scim_array_imengine.cpp:304 src/scim_array_imengine_setup.cpp:174
+msgid "Only Special Code Input Mode"
+msgstr "特行模式"
+
+#: src/scim_array_imengine.cpp:311 src/scim_array_imengine_setup.cpp:182
+msgid "Use Phrase Library"
+msgstr "啟用詞庫"
+
+#: src/scim_array_imengine.cpp:841
+msgid "En"
+msgstr "英"
+
+#: src/scim_array_imengine.cpp:843
+msgid "Ch"
+msgstr "中"
+
+#: src/scim_array_imengine.cpp:854
+msgid "Full"
+msgstr "全"
+
+#: src/scim_array_imengine.cpp:858
+msgid "Half"
+msgstr "半"
+
+#: src/scim_array_imengine.cpp:1121 src/scim_array_imengine.cpp:1161
+msgid "special code:"
+msgstr "特別碼："
+
+#: src/scim_array_imengine_setup.cpp:111
+msgid "Array 30 IMEngine Module."
+msgstr "行列30輸入法模組"
+
+#: src/scim_array_imengine_setup.cpp:169
+msgid "To notify if the character has the special code"
+msgstr "若該字有特別碼，則提示特別碼"
+
+#: src/scim_array_imengine_setup.cpp:177
+msgid "If the character has the special code, you will be confined to use it"
+msgstr "啟動特行模式，若該字有特別碼，您必須使用特別碼輸入"
+
+#: src/scim_array_imengine_setup.cpp:185
+msgid "Turn on phrase input mode. (Enable after restart)"
+msgstr "使用詞庫輸入功能 (下次啟動後生效)"
+
+#: src/scim_array_imengine_setup.cpp:366
+msgid "Key Event Modification"
+msgstr "修改按鍵設定"
