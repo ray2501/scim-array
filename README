@@ -21,5 +21,4 @@ SCIM 行列 30 輸入法引擎提供了 SCIM 上好用的行列三十輸入法�
 openSUSE 12.3 以後編譯失敗，這裡是放我自己修改以後的 source code。
 
 1. 使用 GTK_CHECK_VERSION 區隔開不同版本間的 API
-2. 更新 array30.cin 與 array-shortcode.cin 檔案
 
